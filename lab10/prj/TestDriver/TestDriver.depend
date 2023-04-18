@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681843084 source:d:\users\computer\desktop\cntuu\bmtp\git\chervonyi-yehor-kn22\lab10\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesChervonyi.h"
+	"windows.h"
+	<fstream>
+	<string>
+
+1681839782 d:\users\computer\desktop\cntuu\bmtp\git\chervonyi-yehor-kn22\lab10\prj\moduleschervonyi.h
+
