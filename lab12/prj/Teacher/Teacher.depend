@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683138661 source:d:\users\computer\desktop\cntuu\bmtp\git\chervonyi-yehor-kn22\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ModulesChervonyi.h"
+
+1683138652 d:\users\computer\desktop\cntuu\bmtp\git\chervonyi-yehor-kn22\lab12\prj\moduleschervonyi.h
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
